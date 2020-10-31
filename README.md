@@ -2,7 +2,8 @@
 ## Part1
 This repo is a replay of the example of https://github.com/mjhea0/flaskr-tdd
 ## Part2
-https://github.com/ECE444-2020Fall/project1-webapp-group2-tetrahedron/blob/dev_haonan/tests/app_test.py
+https://github.com/ECE444-2020Fall/project1-webapp-group2-tetrahedron/blob/dev_haonan/tests/app_test.py#L21-L62
+
 ## Part3
 What is cons and pros of TDD?
 
